@@ -1,5 +1,7 @@
-introduction to git
-welcome 
-change3
+Introduction to git
 
-change 4
+Welcome 
+
+Change 3
+
+Change 4
