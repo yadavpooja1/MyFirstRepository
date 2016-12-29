@@ -2,6 +2,6 @@ Introduction to git
 
 Welcome 
 
-Change 3
+Change - 3
 
-Change 4
+Change - 4
